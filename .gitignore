@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+data/vector_db/
+data/travel_feedback.sqlite3
+*.log
+evaluation/results/
